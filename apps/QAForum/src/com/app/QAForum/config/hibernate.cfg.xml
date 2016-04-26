@@ -16,7 +16,7 @@
 		<property name="hbm2ddl.auto">update</property>
 		
 		<!-- Mapping Resource -->
-		<mapping resource=""/>
+		<mapping resource="com/app/QAForum/config"/>
 		
 	</session-factory>
 </hibernate-configuration>
